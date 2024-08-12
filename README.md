@@ -8,3 +8,6 @@ Am currently learning HTML and CSS and am building some project with those keys
 :Sparkles: When am not coding,you will find me watching  films or playing football and I love watching  football matches.
 
 
+## Languages I'm Currently learning 
+
+✨ HTML 🎇 CSS ❇️ JAVA SCRIPT 
